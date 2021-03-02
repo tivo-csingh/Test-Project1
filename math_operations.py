@@ -12,5 +12,6 @@ def div(num1,num2):
   if num1 > 0 and num2 > 0:
     return num1/num2
 
-def check_multiply(num1, num2,num3):
+def multiply(num1, num2,num3):
     return num1*num2*num3
+
